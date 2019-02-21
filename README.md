@@ -42,9 +42,9 @@
 * Email: jaehyuk@phbs.pku.edu.cn
 * Office Hour: Tuesday, Friday 3:30-4:00 PM / Thursday 3-4 PM (__subject to change__)
 
-## Teaching Assistance: `TBA`
-* Email: 
-* TA Office Hour: 
+## Teaching Assistance: "Aaron" Gan WU (吴淦)
+* Email: 1701212974@sz.pku.edu.cn
+* TA Office Hour: Tue 7-9 PM (Room 213/214)
 
 ## Textbooks and Reading Materials
 * [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): Slides, Youtube lectures available (Uploaded in [CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN533))
